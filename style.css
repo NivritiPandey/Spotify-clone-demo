@@ -314,9 +314,9 @@ height: 0.2rem;
   appearance:none;
   background-color: #ddd;
   border-radius: 100px;
-height: 0.2rem;
-width: 30%;
-align-content: flex-end;
+  height: 0.2rem;
+  width: 30%;
+  align-content: flex-end;
 }
 .icon1{
   opacity: 0.7;
